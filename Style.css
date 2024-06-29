@@ -1,4 +1,5 @@
-.body{background-color: #efefef;
+.body{display:flex;
+    background-color: #efefef;
     margin: 100px;
     font-family: sans-serif;
 }
